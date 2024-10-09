@@ -1,16 +1,16 @@
-![](https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png)
+<h1 align="center">Hi 👋, I'm Monzorul Islam Sajon</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajon01&label=Profile%20views&color=0e75b6&style=flat" alt="sajon01" /> </p>
 
-### Hi there 👋, I'm Sajon
+- 🌱 I’m currently learning **Frontend web development**
 
-Currently I'm learning frontend web development from Hablu Programmer.
+- 📫 How to reach me **monzorulislamsajon@gmail.com**
 
-Skills:  HTML / CSS
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/61566048922828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="61566048922828" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on Learning frontend web development 
-- 🌱 I’m currently learning CSS 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajon01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/61566048922828)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajon01)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajon01&show_icons=true&locale=en&layout=compact" alt="sajon01" /></p>
